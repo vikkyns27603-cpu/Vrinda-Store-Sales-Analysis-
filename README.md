@@ -1,7 +1,7 @@
 # Vrinda Store Annual Sales Analysis (2022) 📊
 
 ## Dashboard Snapshot 📸
-![Vrinda Store Dashboard](Vrinda-Store-Dashboard.png)
+![Vrinda-Store-Dashboard.png](https://raw.githubusercontent.com/YOUR-vikkyns27603-cpu/Vrinda-Store-Sales-Analysis/main/Vrinda-Store-Dashboard.png)
 
 ---
 
@@ -39,4 +39,4 @@ The goal of this project was to analyze the 2022 sales data for Vrinda Store to 
 
 ## How to Use This Repository 📂
 1.  **`Vrinda Store Data Analysis.xlsx`:** This is the main file containing all the analysis, PivotTables, and the interactive dashboard.
-2.  **`Vrinda Store.csv`:** This file contains the raw, uncleaned data used for the project.# Vrinda-Store-Sales-Analysis-
+2.  **`Vrinda Store.csv`:** This file contains the raw, uncleaned data used for the project.
